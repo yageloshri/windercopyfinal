@@ -1,0 +1,1 @@
+{"rules": {"connections": {"$connectionId": {".read": true,".write": true}}}}
